@@ -12,7 +12,7 @@ The goal is to classify whether a patient has diabetes based on medical features
 - Pandas
 - NumPy
 - Scikit-learn
-- Seaborn (for data visualization)
+- Seaborn
 
 ## 📈 Models and Tools Used
 
